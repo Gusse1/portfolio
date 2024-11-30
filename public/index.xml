@@ -6,7 +6,42 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Nov 2024 21:29:28 +0200</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 22:20:18 +0200</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One Last Job</title>
+      <link>//localhost:1313/posts/one-last-job/</link>
+      <pubDate>Sat, 30 Nov 2024 22:20:18 +0200</pubDate>
+      
+      <guid>//localhost:1313/posts/one-last-job/</guid>
+      <description>&lt;p&gt;Github link: &lt;a href=&#34;https://github.com/Gusse1/olj_game&#34;&gt;https://github.com/Gusse1/olj_game&lt;/a&gt;&lt;br&gt;
+itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/one-last-job&#34;&gt;https://mikaelgustafsson.itch.io/one-last-job&lt;/a&gt;&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Y2OsxN0WfS0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;In One Last Job the player takes control of an advanced delivery robot in the near future. The game is located in a small Finnish city where most people have mysteriously disappeared. The delivery robot is given one task: Deliver a CD to an old man&amp;rsquo;s cottage at the end of the road.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Github link: &lt;a href=&#34;https://github.com/Gusse1/olj_game&#34;&gt;https://github.com/Gusse1/olj_game&lt;/a&gt;&lt;br&gt;
+itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/one-last-job&#34;&gt;https://mikaelgustafsson.itch.io/one-last-job&lt;/a&gt;&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Y2OsxN0WfS0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;In One Last Job the player takes control of an advanced delivery robot in the near future. The game is located in a small Finnish city where most people have mysteriously disappeared. The delivery robot is given one task: Deliver a CD to an old man&amp;rsquo;s cottage at the end of the road.&lt;/p&gt;
+&lt;p&gt;The gameplay loop consists of simple puzzle solving, exploring different locations, and a zen-like movement mechanic where the player rhythmically times their clicks to glide through the environment dodging the trees and trash left on the roads.&lt;/p&gt;
+&lt;p&gt;When the player wakes up, the sun is setting and the fog is lit by the orange sun which is drawing long shadows from trees around the heavily forested narrow road. The atmosphere is a bit dreamy with the empty buildings and strong lighting and shadows. This is exemplified by the first building the player encounters, the church. With the whole town being empty, the player is left to read into the town&amp;rsquo;s daily life through posters and scattered objects. People have left their phones in the church, a poster about a lost dog is on the tree next to the church and the sunday prayer is advertised on the door of the church.&lt;/p&gt;
+&lt;p&gt;One Last Job was created thematically as my last project for 2024. My original plan of creating three fully finished short games was coming to an end and I wanted to reflect on this creative journey through this game. This game would showcase downtime. The time between action. Especially in games this is crucial for pacing. Games like Shadow of the Colossus and Half-Life 2 balance this line excellently.&lt;/p&gt;
+&lt;p&gt;Especially Shadow of the Colossus was a strong point of inspiration for this project. I found the reflective power of that world particularly powerful. I credited this to a couple of factors. The vacancy of the world paired with the large towering buildings really makes you wonder about what happened in this place, why are the giants there? In addition, the powerful music of Kow Otani is stripped away in these moments and what you are left with is the galloping of your horse (Agro) and ambient sounds. With my game I wanted to explore these themes in a new environment also questioning, What if there isn&amp;rsquo;t any action? Can you create a compelling game with just downtime?&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>//localhost:1313/posts/about-me/</link>
