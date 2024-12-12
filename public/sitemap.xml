@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-12-01T18:17:37+02:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2024-12-01T20:29:28+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/meatball-distortion/</loc>
-    <lastmod>2024-12-01T18:17:37+02:00</lastmod>
+    <loc>/posts/about-me/</loc>
+    <lastmod>2024-12-01T20:29:28+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-12-01T18:17:37+02:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2024-12-01T20:29:28+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/house-of-sepsis/</loc>
-    <lastmod>2024-12-01T16:20:18+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/posts/one-last-job/</loc>
+    <loc>/posts/one-last-job/</loc>
     <lastmod>2024-11-30T22:20:18+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/about-me/</loc>
-    <lastmod>2024-11-30T21:29:28+02:00</lastmod>
+    <loc>/posts/house-of-sepsis/</loc>
+    <lastmod>2024-07-28T16:20:18+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/posts/meatball-distortion/</loc>
+    <lastmod>2024-03-01T18:17:37+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

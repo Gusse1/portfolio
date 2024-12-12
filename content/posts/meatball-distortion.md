@@ -14,7 +14,7 @@ color = ""
 +++
 
 Github link: https://github.com/Gusse1/demon_meatball_unity  
-itch.io link: https://mikaelgustafsson.itch.io/one-last-job  
+itch.io link: https://mikaelgustafsson.itch.io/meatball-distortion
 
 {{< youtube dMsys44qEgo >}}
 

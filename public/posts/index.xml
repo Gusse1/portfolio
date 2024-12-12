@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Dec 2024 20:29:28 +0200</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 20:29:28 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>//localhost:1313/posts/about-me/</link>
+      <link>/posts/about-me/</link>
       <pubDate>Sun, 01 Dec 2024 20:29:28 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/about-me/</guid>
+      <guid>/posts/about-me/</guid>
       <description>&lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;//localhost:1313/images/cover.jpeg&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 10px; width: 300px;&#34;  /&gt;
+    &lt;img src=&#34;/images/cover.jpeg&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 10px; width: 300px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;right&#34; &gt;Picture of me!&lt;/figcaption&gt;
     
@@ -25,7 +25,7 @@
 &lt;p&gt;I think video games have a unique ability to create compelling narratives and fascinating worlds. My projects explore these ideas through my unique focus on level design, environmental storytelling, and technical artistry. I love to play around with expectations and surprise the player by taking normal game conventions and flipping them on their heads. That feeling of surprise and profound discovery is something that only video games as a medium is able to offer and it is definitely something I want to keep working on.&lt;/p&gt;</description>
       <content>
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;//localhost:1313/images/cover.jpeg&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 10px; width: 300px;&#34;  /&gt;
+    &lt;img src=&#34;/images/cover.jpeg&#34;  alt=&#34;Hello Friend&#34;   style=&#34;border-radius: 10px; width: 300px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;right&#34; &gt;Picture of me!&lt;/figcaption&gt;
     
@@ -40,10 +40,10 @@
     
     <item>
       <title>One Last Job</title>
-      <link>//localhost:1313/posts/one-last-job/</link>
+      <link>/posts/one-last-job/</link>
       <pubDate>Sat, 30 Nov 2024 22:20:18 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/one-last-job/</guid>
+      <guid>/posts/one-last-job/</guid>
       <description>&lt;p&gt;Github link: &lt;a href=&#34;https://github.com/Gusse1/olj_game&#34;&gt;https://github.com/Gusse1/olj_game&lt;/a&gt;&lt;br&gt;
 itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/one-last-job&#34;&gt;https://mikaelgustafsson.itch.io/one-last-job&lt;/a&gt;&lt;/p&gt;
 
@@ -69,7 +69,7 @@ itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/one-last-job&#34;
 &lt;p&gt;The gameplay loop consists of simple puzzle solving, exploring different locations, and a zen-like movement mechanic where the player rhythmically times their clicks to glide through the environment dodging the trees and trash left on the roads.&lt;/p&gt;
 
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;//localhost:1313/images/olj_image_start.jpg&#34;  alt=&#34;Image of the game One Last Job&#34;   style=&#34;border-radius: 10px; width: 900px;&#34;  /&gt;
+    &lt;img src=&#34;/images/olj_image_start.jpg&#34;  alt=&#34;Image of the game One Last Job&#34;   style=&#34;border-radius: 10px; width: 900px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;right&#34; &gt;The player wakes up amidst the trees&lt;/figcaption&gt;
     
@@ -79,7 +79,7 @@ itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/one-last-job&#34;
 &lt;p&gt;When the player wakes up, the sun is setting and the fog is lit by the orange sun which is drawing long shadows from trees around the heavily forested narrow road. The atmosphere is a bit dreamy with the empty buildings and strong lighting. This is exemplified by the first building the player encounters, the church. With the whole town being empty, the player is left to read into the town&amp;rsquo;s daily life through posters and scattered objects. People have left their phones in the church, a poster about a lost dog is on the tree next to the church and the Sunday prayer is advertised on the church door.&lt;/p&gt;
 
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;//localhost:1313/images/olj_image_church.jpg&#34;  alt=&#34;Image of the game One Last Job&#34;   style=&#34;border-radius: 10px; width: 900px;&#34;  /&gt;
+    &lt;img src=&#34;/images/olj_image_church.jpg&#34;  alt=&#34;Image of the game One Last Job&#34;   style=&#34;border-radius: 10px; width: 900px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;right&#34; &gt;The church is lit by the sunlight piercing the sole window&lt;/figcaption&gt;
     
@@ -94,10 +94,10 @@ itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/one-last-job&#34;
     
     <item>
       <title>House of Sepsis</title>
-      <link>//localhost:1313/posts/house-of-sepsis/</link>
+      <link>/posts/house-of-sepsis/</link>
       <pubDate>Sun, 28 Jul 2024 16:20:18 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/house-of-sepsis/</guid>
+      <guid>/posts/house-of-sepsis/</guid>
       <description>&lt;p&gt;Github link: &lt;a href=&#34;https://github.com/Gusse1/hos_game&#34;&gt;https://github.com/Gusse1/hos_game&lt;/a&gt;&lt;br&gt;
 itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/house-of-sepsis&#34;&gt;https://mikaelgustafsson.itch.io/house-of-sepsis&lt;/a&gt;&lt;/p&gt;
 
@@ -124,7 +124,7 @@ itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/house-of-sepsis&#
 &lt;p&gt;The core of the game is resource management using the blood that the player gathers from dead enemies. This blood can be funneled into either health or ammo, giving the player constant interesting strategic opportunities during combat. The game also features slower moments in between the action to break up the pacing. The puzzles involve being observant and finding switches in the environment. Sometimes these switches turn off by themselves so sometimes timing can be crucial.&lt;/p&gt;
 
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;//localhost:1313/images/hos_static_image.png&#34;  alt=&#34;Image of the game House of Sepsis&#34;   style=&#34;border-radius: 10px; width: 900px;&#34;  /&gt;
+    &lt;img src=&#34;/images/hos_static_image.png&#34;  alt=&#34;Image of the game House of Sepsis&#34;   style=&#34;border-radius: 10px; width: 900px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;right&#34; &gt;A giant frozen in the fog&lt;/figcaption&gt;
     
@@ -134,7 +134,7 @@ itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/house-of-sepsis&#
 &lt;p&gt;The atmosphere is important for eliciting this feeling of unease. In the game, this is enforced through a focus on using aggressive, brutalist architecture and strong colored lighting. Among the fog the player can see huge creatures that are frozen in various positions, sometimes guiding the player down the correct path. The thoughts in the main characters head are represented by jittering text boxes dancing around the screen frantically. Additionally, the game includes short video clips to move the story forward and illustrate visuals that would not be possible with the playable sections.&lt;/p&gt;
 
   &lt;figure class=&#34;left&#34; &gt;
-    &lt;img src=&#34;//localhost:1313/images/hos_text_image.jpg&#34;  alt=&#34;Image of the game House of Sepsis&#34;   style=&#34;border-radius: 10px; width: 900px;&#34;  /&gt;
+    &lt;img src=&#34;/images/hos_text_image.jpg&#34;  alt=&#34;Image of the game House of Sepsis&#34;   style=&#34;border-radius: 10px; width: 900px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;right&#34; &gt;Text jittering on the screen after a cutscene&lt;/figcaption&gt;
     
@@ -149,12 +149,12 @@ itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/house-of-sepsis&#
     
     <item>
       <title>Meatball Distortion</title>
-      <link>//localhost:1313/posts/meatball-distortion/</link>
+      <link>/posts/meatball-distortion/</link>
       <pubDate>Fri, 01 Mar 2024 18:17:37 +0200</pubDate>
       
-      <guid>//localhost:1313/posts/meatball-distortion/</guid>
+      <guid>/posts/meatball-distortion/</guid>
       <description>&lt;p&gt;Github link: &lt;a href=&#34;https://github.com/Gusse1/demon_meatball_unity&#34;&gt;https://github.com/Gusse1/demon_meatball_unity&lt;/a&gt;&lt;br&gt;
-itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/one-last-job&#34;&gt;https://mikaelgustafsson.itch.io/one-last-job&lt;/a&gt;&lt;/p&gt;
+itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/meatball-distortion&#34;&gt;https://mikaelgustafsson.itch.io/meatball-distortion&lt;/a&gt;&lt;/p&gt;
 
 
     
@@ -165,7 +165,7 @@ itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/one-last-job&#34;
 
 &lt;p&gt;Meatball Distortion is a physics-based platformer set in the dreams of a chef who really likes meatballs. In the game, the player becomes &amp;ldquo;Agent Meatball,&amp;rdquo; who must cook themselves to perfection and collect all of the dream fragments while reaching the plate at the end of the level. However, the Chef has a dark secret relating to his famed meatball recipe, which the player must uncover.&lt;/p&gt;</description>
       <content>&lt;p&gt;Github link: &lt;a href=&#34;https://github.com/Gusse1/demon_meatball_unity&#34;&gt;https://github.com/Gusse1/demon_meatball_unity&lt;/a&gt;&lt;br&gt;
-itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/one-last-job&#34;&gt;https://mikaelgustafsson.itch.io/one-last-job&lt;/a&gt;&lt;/p&gt;
+itch.io link: &lt;a href=&#34;https://mikaelgustafsson.itch.io/meatball-distortion&#34;&gt;https://mikaelgustafsson.itch.io/meatball-distortion&lt;/a&gt;&lt;/p&gt;
 
 
     
