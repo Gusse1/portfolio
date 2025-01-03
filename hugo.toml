@@ -96,9 +96,13 @@ paginate = 5
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "github"
-        name = "Github"
+        name = "GitHub"
         url = "https://github.com/Gusse1"
+      [[languages.en.menu.main]]
+        identifier = "work github"
+        name = "Work GitHub"
+        url = "https://github.com/mikaelGusse"
       [[languages.en.menu.main]]
         identifier = "itch.io"
         name = "itch.io"
-        url = "https://mikaelgustafsson.itch.io/"
+        url = "https://mikaelgustafsson.itch.io/"        

@@ -16,6 +16,8 @@ color = ""
 Github link: https://github.com/Gusse1/demon_meatball_unity  
 itch.io link: https://mikaelgustafsson.itch.io/meatball-distortion
 
+My roles: Solo project, used some CC0 assets for models and audio, which were modified for my purposes. Some libraries were used for technology purposes. Check the GitHub for more thorough overview.
+
 {{< youtube dMsys44qEgo >}}
 
 Meatball Distortion is a physics-based platformer set in the dreams of a chef who really likes meatballs. In the game, the player becomes "Agent Meatball," who must cook themselves to perfection and collect all of the dream fragments while reaching the plate at the end of the level. However, the Chef has a dark secret relating to his famed meatball recipe, which the player must uncover. 

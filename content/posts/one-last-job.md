@@ -16,6 +16,8 @@ color = ""
 Github link: https://github.com/Gusse1/olj_game  
 itch.io link: https://mikaelgustafsson.itch.io/one-last-job  
 
+My roles: Solo project, used some CC0 assets for models and audio, which were modified for my purposes. Some libraries were used for technology purposes. Check the GitHub for more thorough overview.
+
 {{< youtube RpBcNiPLBqI >}}
 
 In One Last Job, the player takes control of an advanced delivery robot in a near future Finland, in a town where all of the people have mysteriously disappeared. The delivery robot is given one task: Deliver a CD to an old man's cottage at the end of the road.

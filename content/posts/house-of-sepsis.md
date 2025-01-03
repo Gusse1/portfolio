@@ -16,6 +16,8 @@ color = ""
 Github link: https://github.com/Gusse1/hos_game  
 itch.io link: https://mikaelgustafsson.itch.io/house-of-sepsis  
 
+My roles: Solo project, used some CC0 assets for models and audio, which were modified for my purposes. Some libraries were used for technology purposes. Check the GitHub for more thorough overview.
+
 {{< youtube rhesvD_n2QU >}}
 
 House of Sepsis is a survival horror, first-person shooter that focuses on making the player uneasy and using action and puzzle solving to further immerse the player in a strange world.
